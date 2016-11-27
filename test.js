@@ -1,2 +1,2 @@
-document.ready();
+
 alert("test");
